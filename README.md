@@ -8,7 +8,7 @@ export const biography = {
   name: "Benjamín Alexis Rivas Beltrán",
   age: 19,
   contact: {
-    email: "benjaminrivas500@gmail.com",
+    email: "benjamin.rivas.dev@gmail.com",
     instagram: "benja_arb",
     discord: "Bennjamon2006_",
   },
